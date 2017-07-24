@@ -1,0 +1,11 @@
+body{
+
+ background: url(assets/topper.jpg);
+    background-size:cover;
+    background-position: center;
+    text-align: center;
+ color:red;
+ font: normal small-caps normal 17px/1.5 times new roman;
+font-stretch: ultra-condensed;
+}
+

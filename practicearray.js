@@ -1,0 +1,2 @@
+MyArray.push(42) ;
+
