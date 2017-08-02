@@ -29,3 +29,14 @@ body, html {height: 100%}
     text-align: left;
 
 }
+.w3-display-topright{
+
+    margin-right: 15%;
+
+
+}
+
+.w3-display-topleft{
+
+    margin-left: 8%;
+}
